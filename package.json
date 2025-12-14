@@ -1,18 +1,30 @@
 {
   "name": "js-merge-users-lab",
   "version": "1.0.0",
+  "description": "**Overview**",
+  "keywords": [],
+  "homepage": "https://github.com/Duncan553/js-analyzing-data-modules-syntax-lab#readme",
+  "bugs": {
+    "url": "https://github.com/Duncan553/js-analyzing-data-modules-syntax-lab/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duncan553/js-analyzing-data-modules-syntax-lab.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "jest"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  },
   "dependencies": {
     "datejs": "^1.0.0-rc3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
